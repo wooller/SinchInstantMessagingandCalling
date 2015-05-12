@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Heartbeat</string>
+    <string name="login_activity_label">Heartbeat Login</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="message_elipses">Message...</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_listusers">ListUsersActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
